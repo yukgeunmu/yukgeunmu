@@ -1,7 +1,3 @@
-
-
-# <img src="https://img.shields.io/badge/기술명-색상코드?style=round-square&logo=로고&logoColor=white"/>
-
 🎮 Game Engine
 
 <img src= "https://img.shields.io/badge/Unity-%23FFFFFF?style=round-square&logo=unity&logoColor=black"/>
