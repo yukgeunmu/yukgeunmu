@@ -1,3 +1,17 @@
+# 👋 Hi, I'm a Game Client Developer & Programmer
+
+> **Passionate about building responsive client experiences and robust full-stack game architectures.**
+
+Welcome to my GitHub! I specialize in developing gameplay systems and architecture using **Unity (C#)**, while consistently expanding my horizons into backend and infrastructure to build end-to-end game services. 
+
+* 🎮 **Client-Side:** Focused on clean architecture, design patterns, and smooth gameplay optimization.
+* 🌐 **Server-Side:** Experienced in building scalable backends with **Node.js (TypeScript)**, managing real-time data synchronization, and caching with **Redis**.
+* 📦 **Data & Infra:** Practical knowledge in blending **SQL (RDS) & NoSQL (MongoDB)**, and containerizing environments using **Docker** for stable deployment on **AWS**.
+
+📬 **Contact** : sixwork0511@gmail.com  |  📑 **Portfolio** : [Notion Portfolio](https://app.notion.com/p/1f83f96ec5ea8041b3d7db8eacf3e263?source=copy_link)
+
+
+
 ## 🏗 Tech Stack & Tools
 
 ### 💻 Stack
